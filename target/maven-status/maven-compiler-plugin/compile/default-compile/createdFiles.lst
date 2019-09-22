@@ -1,3 +1,6 @@
 com\huge\lombok\process\GettterProcess$1.class
+com\huge\lombok\process\SetterProcess.class
 com\huge\lombok\annotation\Getter.class
+com\huge\lombok\annotation\Setter.class
 com\huge\lombok\process\GettterProcess.class
+com\huge\lombok\process\SetterProcess$1.class

@@ -1,1 +1,2 @@
 com.huge.lombok.process.GettterProcess
+com.huge.lombok.process.SetterProcess
